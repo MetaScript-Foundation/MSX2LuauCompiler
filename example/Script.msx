@@ -1,0 +1,5 @@
+this rblxGame be "ROBLOX.game"
+this rblxRS be "ROBLOX.game.ReplicatedStorage"
+
+let rblxGame = "ROBLOX.game"
+let rblxRS = "ROBLOX.game.ReplicatedStorage"
