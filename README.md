@@ -2,7 +2,10 @@
 Copyright 2024 MetaScript Foundation, a subsidary of MetaTable Games. All Rights reserved.
 Copyright 2024 MetaTable Games. All Rights reserved.
 
-MetaScript (MSX) to Luau Compiler. MPM (MetaScript Package Manager) packages are not supported.
+MetaScript Raw (MSRAW) to Luau Compiler. MPM (MetaScript Package Manager) packages are not supported. This is primarily for converting MSX to Luau, however this convertor only supports MSRAW, therefore you must use MSX2MSRAW to convert MSX to MSRAW.
+
+Is this scuffed? Yes
+Will it be actively fixed? Prob not, contributors are welcomed.
 
 ## Prerequisites
 Before you begin, ensure you have the following installed:
